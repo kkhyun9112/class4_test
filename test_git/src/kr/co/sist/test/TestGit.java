@@ -6,6 +6,7 @@ public class TestGit {
 		int i=10;
 		System.out.println("Test중 ~(O_O ~) (~ O_O )~ ~(O_O ~) (~ O_O )~"+i+"   "+i);
 		System.out.println("이거는 수정한거");
+		System.out.println("dldldjdjwklt이어서 작업");
 	}
 
 }
